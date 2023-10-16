@@ -50,4 +50,4 @@ namespace GiaiPhuongTrinhBac1
         }
     }
 }
-//hello tai da o day
+//hello tai da o day.
