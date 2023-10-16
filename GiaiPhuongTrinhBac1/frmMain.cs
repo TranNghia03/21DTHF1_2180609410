@@ -33,6 +33,7 @@ namespace GiaiPhuongTrinhBac1
             int heSoB = Int32.Parse(txtHeSoA.Text);
             var ketQua = (-heSoB)/heSoA;
             txtKetQua.Text = ketQua.ToString();
+            //Dmm Anh VU
         }
 
         private void button2_Click(object sender, EventArgs e)
